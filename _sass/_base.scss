@@ -151,13 +151,13 @@ aside {
 
 header {
     position: relative;
-    width: 100%;
+    width: 50%;
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url(https://cdn.discordapp.com/attachments/185258492481765377/730731100481126450/unknown.png);
     text-align: center;
-    color: white;
+    color:black;
     .header-content {
         position: relative;
         text-align: center;
