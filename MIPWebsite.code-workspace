@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "_layouts"
+		},
+		{
+			"path": "_sass"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "font-awesome"
+		},
+		{
+			"path": "fonts"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "js"
+		}
+	]
+}
